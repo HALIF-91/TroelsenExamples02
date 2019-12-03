@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreateSaferCollection", "Cr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComparableCar", "ComparableCar\ComparableCar.csproj", "{1B5CEDAF-7EDF-4C23-8F13-20C081886C16}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunWithGenericCollections", "FunWithGenericCollections\FunWithGenericCollections.csproj", "{F3F7C641-E708-4E4A-BDAB-FC012B933A02}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunWithObservableCollection", "FunWithObservableCollection\FunWithObservableCollection.csproj", "{645D9C22-441F-4D54-8921-D07E62BB7F4E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{1B5CEDAF-7EDF-4C23-8F13-20C081886C16}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1B5CEDAF-7EDF-4C23-8F13-20C081886C16}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1B5CEDAF-7EDF-4C23-8F13-20C081886C16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3F7C641-E708-4E4A-BDAB-FC012B933A02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3F7C641-E708-4E4A-BDAB-FC012B933A02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3F7C641-E708-4E4A-BDAB-FC012B933A02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3F7C641-E708-4E4A-BDAB-FC012B933A02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{645D9C22-441F-4D54-8921-D07E62BB7F4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{645D9C22-441F-4D54-8921-D07E62BB7F4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{645D9C22-441F-4D54-8921-D07E62BB7F4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{645D9C22-441F-4D54-8921-D07E62BB7F4E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
