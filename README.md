@@ -7,3 +7,5 @@ C#5 .NET 4.5 Эндрю Троелсен
 4) указание параметров типов при реализации обобщенных интерфейсов, проект - ComparableCar
 5) Пространство имен System.Collections.Generic, проект - FunWithGenericCollections
 6) Пространство имен System.Collections.ObjectModel, проект - FunWithObservableCollections
+7) Построение обощенного метода, проект - CustomGenericMethods
+8) Создание обобщенных структур и классов, проект - GenericPoint
