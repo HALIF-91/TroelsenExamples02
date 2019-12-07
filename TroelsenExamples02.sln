@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RealisticDelegate", "Realis
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericDelegate", "GenericDelegate\GenericDelegate.csproj", "{1BD2204B-EE9F-4B16-ABB2-6CEF43295009}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ActionAndFuncDelegates", "ActionAndFuncDelegates\ActionAndFuncDelegates.csproj", "{64AF8F55-8188-43D5-B1B6-AF725E3CFF64}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{1BD2204B-EE9F-4B16-ABB2-6CEF43295009}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1BD2204B-EE9F-4B16-ABB2-6CEF43295009}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1BD2204B-EE9F-4B16-ABB2-6CEF43295009}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64AF8F55-8188-43D5-B1B6-AF725E3CFF64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64AF8F55-8188-43D5-B1B6-AF725E3CFF64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64AF8F55-8188-43D5-B1B6-AF725E3CFF64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64AF8F55-8188-43D5-B1B6-AF725E3CFF64}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
