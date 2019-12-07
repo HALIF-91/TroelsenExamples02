@@ -13,3 +13,4 @@ C#5 .NET 4.5 Эндрю Троелсен
 10) Пример простейшего делегата, проект - SimpleDelegate
 11) Делегаты, включение группового вызова, проект - RealisticDelegate
 12) Обобщенные делегаты, проект - GenericDelegate
+13) Обобщенные делегаты Action<> и Func<>, проект - ActionAndFuncDelegates
