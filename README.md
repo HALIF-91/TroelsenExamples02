@@ -10,3 +10,4 @@ C#5 .NET 4.5 Эндрю Троелсен
 7) Построение обощенного метода, проект - CustomGenericMethods
 8) Создание обобщенных структур и классов, проект - GenericPoint
 9) Ключевое слово where, проект - WhereKeyword
+10) Пример простейшего делегата, проект - SimpleDelegate, RealisticDelegate
