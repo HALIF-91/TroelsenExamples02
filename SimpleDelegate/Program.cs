@@ -31,10 +31,11 @@ namespace SimpleDelegate
             Console.WriteLine();
 
             op += SimpleMath.Subtract;
-            // при добавлении еще одного метода, 
-            // при вызове делегат ссылается на последний
-            Console.WriteLine("10 + 10 is {0}", op.Invoke(10, 10));
-            Console.WriteLine("10 + 10 is {0}", op(10, 10));
+            // при добавлении еще одного метода также возвращающегося значение, 
+            // при вызове делегат отбрасывает значение предыдущих методов,
+            // и возвращает значение с последнего метода
+            Console.WriteLine("10 - 10 is {0}", op.Invoke(10, 10));
+            Console.WriteLine("10 - 10 is {0}", op(10, 10));
             Console.WriteLine();
 
             DisplayDelegateInfo(op);

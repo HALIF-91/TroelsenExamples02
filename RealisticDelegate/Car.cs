@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace RealisticDelegate
 {
@@ -36,6 +32,10 @@ namespace RealisticDelegate
             else
                 Delegate.Combine(listOfHandlers, methodToCall);
             */
+        }
+        public void UnRegisterWithCarEngine(CarEngineHandler methodToCall)
+        {
+            listOfHandlers -= methodToCall;
         }
         public void Accelerate(int delta)
         {

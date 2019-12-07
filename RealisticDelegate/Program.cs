@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace RealisticDelegate
 {
@@ -22,6 +18,13 @@ namespace RealisticDelegate
                 car.Accelerate(20);
             }
 
+            car.UnRegisterWithCarEngine(OnCarEngineEvent2);
+            Console.WriteLine("*****Speeding up *****");
+            for (int i = 0; i < 6; i++)
+            {
+                car.Accelerate(20);
+            }
+            
             Console.ReadLine();
         }
 
