@@ -28,6 +28,14 @@ namespace RealisticDelegate
         public void RegisterWithCarEngine(CarEngineHandler methodToCall)
         {
             listOfHandlers += methodToCall;
+
+            /*
+             * Вместо операции +=
+            if (listOfHandlers == null)
+                listOfHandlers = methodToCall;
+            else
+                Delegate.Combine(listOfHandlers, methodToCall);
+            */
         }
         public void Accelerate(int delta)
         {
