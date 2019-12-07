@@ -17,6 +17,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunWithObservableCollection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomGenericMethods", "CustomGenericMethods\CustomGenericMethods.csproj", "{5B19E768-EB41-4081-A141-13CA0F30B275}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericPoint", "GenericPoint\GenericPoint.csproj", "{CC882BF3-0252-40E5-BF48-0F185A2F75AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhereKeyword", "WhereKeyword\WhereKeyword.csproj", "{D9514E57-DED9-4355-8BD1-8EC5CBD94F97}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +55,14 @@ Global
 		{5B19E768-EB41-4081-A141-13CA0F30B275}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5B19E768-EB41-4081-A141-13CA0F30B275}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5B19E768-EB41-4081-A141-13CA0F30B275}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC882BF3-0252-40E5-BF48-0F185A2F75AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC882BF3-0252-40E5-BF48-0F185A2F75AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC882BF3-0252-40E5-BF48-0F185A2F75AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC882BF3-0252-40E5-BF48-0F185A2F75AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9514E57-DED9-4355-8BD1-8EC5CBD94F97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9514E57-DED9-4355-8BD1-8EC5CBD94F97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9514E57-DED9-4355-8BD1-8EC5CBD94F97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9514E57-DED9-4355-8BD1-8EC5CBD94F97}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

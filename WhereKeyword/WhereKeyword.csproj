@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{CC882BF3-0252-40E5-BF48-0F185A2F75AB}</ProjectGuid>
+    <ProjectGuid>{D9514E57-DED9-4355-8BD1-8EC5CBD94F97}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>GenericPoint</RootNamespace>
-    <AssemblyName>GenericPoint</AssemblyName>
+    <RootNamespace>WhereKeyword</RootNamespace>
+    <AssemblyName>WhereKeyword</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,9 +43,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Point.cs" />
+    <Compile Include="Circle.cs" />
+    <Compile Include="Hexagon.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Shape.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
