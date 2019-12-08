@@ -15,3 +15,4 @@ C#5 .NET 4.5 Эндрю Троелсен
 12) Обобщенные делегаты, проект - GenericDelegate
 13) Обобщенные делегаты Action<> и Func<>, проект - ActionAndFuncDelegates
 14) Event, регистрация событий, проект - CarEvents
+15) Обобщенный делегат EventHandler<T>, проект - PrimAndProperCarEvents
