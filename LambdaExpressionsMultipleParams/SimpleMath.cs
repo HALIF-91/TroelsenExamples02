@@ -18,8 +18,6 @@ namespace LambdaExpressionsMultipleParams
         {
             if (mmDelegate != null)
                 mmDelegate.Invoke("Adding has completed!", x + y);
-            if (ev1 != null)
-                ev1("Hello", 28);
         }
     }
 }
