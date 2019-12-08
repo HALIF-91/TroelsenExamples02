@@ -14,3 +14,4 @@ C#5 .NET 4.5 Эндрю Троелсен
 11) Делегаты, включение группового вызова, проект - RealisticDelegate
 12) Обобщенные делегаты, проект - GenericDelegate
 13) Обобщенные делегаты Action<> и Func<>, проект - ActionAndFuncDelegates
+14) Event, регистрация событий, проект - CarEvents
