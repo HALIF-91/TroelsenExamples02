@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ActionAndFuncDelegates", "A
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarEvents", "CarEvents\CarEvents.csproj", "{763232C4-BB72-4B7C-BCEF-375C00DBEF38}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimAndProperCarEvents", "PrimAndProperCarEvents\PrimAndProperCarEvents.csproj", "{3F11F3C4-7F12-41A2-8F20-FBED78700A0D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{763232C4-BB72-4B7C-BCEF-375C00DBEF38}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{763232C4-BB72-4B7C-BCEF-375C00DBEF38}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{763232C4-BB72-4B7C-BCEF-375C00DBEF38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F11F3C4-7F12-41A2-8F20-FBED78700A0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F11F3C4-7F12-41A2-8F20-FBED78700A0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F11F3C4-7F12-41A2-8F20-FBED78700A0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F11F3C4-7F12-41A2-8F20-FBED78700A0D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
