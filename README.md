@@ -18,3 +18,4 @@ C#5 .NET 4.5 Эндрю Троелсен
 15) Обобщенный делегат EventHandler<T>, проект - PrimAndProperCarEvents
 16) Анонимные методы, проект - AnonymousMethods
 17) Лямбда-выражения, проект - SimpleLambdaExpressions
+18) Лямбда-выражения с параметрами и без, проект - LambdaExpressiobsMultipleParams, LambdaCarEvents
