@@ -41,6 +41,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LambdaExpressionsMultiplePa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LambdaCarEvents", "LambdaCarEvents\LambdaCarEvents.csproj", "{D9B0C184-E262-4318-A1E4-B093ECD4BB21}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleIndexer", "SimpleIndexer\SimpleIndexer.csproj", "{40043F89-9D0E-4975-8FC9-E4A43F9BA667}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -123,6 +125,10 @@ Global
 		{D9B0C184-E262-4318-A1E4-B093ECD4BB21}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D9B0C184-E262-4318-A1E4-B093ECD4BB21}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D9B0C184-E262-4318-A1E4-B093ECD4BB21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40043F89-9D0E-4975-8FC9-E4A43F9BA667}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40043F89-9D0E-4975-8FC9-E4A43F9BA667}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40043F89-9D0E-4975-8FC9-E4A43F9BA667}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40043F89-9D0E-4975-8FC9-E4A43F9BA667}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
