@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="IPersonContainer.cs" />
     <Compile Include="PeopleCollection.cs" />
     <Compile Include="Person.cs" />
     <Compile Include="Program.cs" />

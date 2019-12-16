@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace SimpleIndexer
 {
-    public class PeopleCollection
+    public class PeopleCollection : IPersonContainer
     {
         private ArrayList arPeople = new ArrayList();
 
