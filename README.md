@@ -20,3 +20,4 @@ C#5 .NET 4.5 Эндрю Троелсен
 17) Лямбда-выражения, проект - SimpleLambdaExpressions
 18) Лямбда-выражения с параметрами и без, проект - LambdaExpressiobsMultipleParams, LambdaCarEvents
 19) Понятие методов индексаторов, проект - SimpleIndexer
+20) Индексация данных с использованием строковых значений, проект - StringIndexer
