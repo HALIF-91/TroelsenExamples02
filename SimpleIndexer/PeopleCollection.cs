@@ -10,6 +10,8 @@ namespace SimpleIndexer
     public class PeopleCollection
     {
         private ArrayList arPeople = new ArrayList();
+
+        // Этот индексатор возвращает персону по цифровому индексу
         public Person this[int index]
         {
             get { return (Person)arPeople[index]; }
@@ -19,9 +21,9 @@ namespace SimpleIndexer
         {
             arPeople.Clear();
         }
-        public int Count()
+        public int Count
         {
-            return arPeople.Count;
+            get { return arPeople.Count; }
         }
     }
 }

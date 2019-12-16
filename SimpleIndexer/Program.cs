@@ -20,7 +20,7 @@ namespace SimpleIndexer
             people[4] = new Person("Maggie", "Simpson", 2);
 
             // Получить и отобразить каждый элемент с использованием индексатора
-            for (int i = 0; i < people.Count(); i++)
+            for (int i = 0; i < people.Count; i++)
             {
                 Console.WriteLine("Person number: {0}", i);
                 Console.WriteLine("Name: {0} {1}", people[i].FirstName, people[i].LastName);
@@ -40,7 +40,7 @@ namespace SimpleIndexer
             people[0] = new Person("Maggie", "Simpson", 2);
 
             // Получить и отобразить каждый элемент с использованием индексатора
-            for (int i = 0; i < people.Count(); i++)
+            for (int i = 0; i < people.Count; i++)
             {
                 Console.WriteLine("Person number: {0}", i);
                 Console.WriteLine("Name: {0} {1}", people[i].FirstName, people[i].LastName);

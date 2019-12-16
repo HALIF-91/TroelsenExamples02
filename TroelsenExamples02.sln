@@ -43,6 +43,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LambdaCarEvents", "LambdaCa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleIndexer", "SimpleIndexer\SimpleIndexer.csproj", "{40043F89-9D0E-4975-8FC9-E4A43F9BA667}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringIndexer", "StringIndexer\StringIndexer.csproj", "{FAD897AF-EE04-4C89-8193-9F62BD15AEC8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -129,6 +131,10 @@ Global
 		{40043F89-9D0E-4975-8FC9-E4A43F9BA667}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{40043F89-9D0E-4975-8FC9-E4A43F9BA667}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{40043F89-9D0E-4975-8FC9-E4A43F9BA667}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAD897AF-EE04-4C89-8193-9F62BD15AEC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAD897AF-EE04-4C89-8193-9F62BD15AEC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAD897AF-EE04-4C89-8193-9F62BD15AEC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAD897AF-EE04-4C89-8193-9F62BD15AEC8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
