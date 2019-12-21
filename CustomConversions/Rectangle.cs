@@ -29,5 +29,14 @@ namespace CustomConversions
         {
             return string.Format("[Width = {0}; Height = {1}", Width, Height);
         }
+        public static implicit operator Rectangle(Square s)
+        {
+            Rectangle r = new Rectangle();
+            r.Height = s.Length;
+
+            // Предположим что длина нового Rectangle будет равна (Length * 2)
+            r.Width = s.Length * 2;
+            return r;
+        }
     }
 }
