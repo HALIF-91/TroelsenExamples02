@@ -51,6 +51,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OverloadedOps", "Overloaded
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomConversions", "CustomConversions\CustomConversions.csproj", "{F9AFDF67-6ED0-4AF9-A606-C40F7E3C53FF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtensionMethods", "ExtensionMethods\ExtensionMethods.csproj", "{48F5D2DE-C5A5-48F9-A6B3-56167925427E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -153,6 +155,10 @@ Global
 		{F9AFDF67-6ED0-4AF9-A606-C40F7E3C53FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F9AFDF67-6ED0-4AF9-A606-C40F7E3C53FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F9AFDF67-6ED0-4AF9-A606-C40F7E3C53FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48F5D2DE-C5A5-48F9-A6B3-56167925427E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48F5D2DE-C5A5-48F9-A6B3-56167925427E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48F5D2DE-C5A5-48F9-A6B3-56167925427E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48F5D2DE-C5A5-48F9-A6B3-56167925427E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
